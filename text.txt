@@ -1,0 +1,5 @@
+Ez egy szöveg!
+Ez egy másik szöveg!
+Ez egy harmadik
+Ez egy negyedik
+ok
