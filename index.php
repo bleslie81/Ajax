@@ -24,7 +24,7 @@
 
         console.log("1");
 
-        xhttp.open("GET", "text.txt?ido=<? time() ?>", true); 
+        xhttp.open("GET", "text.txt?ido=<?= time() ?>", true); 
         //aszinkron metódust használunk a true-val, cache kiiktatásával
         
         xhttp.onreadystatechange = function() {
